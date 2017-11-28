@@ -1,0 +1,14 @@
+{
+	"title": "Stuff and Things",
+	"author": "Kathryn Hartog",
+	"chapters": [
+		{
+			"title": "Stuff",
+			"file": "stuff"
+		},
+		{
+			"title": "Things",
+			"file": "things"
+		}
+	]
+}
